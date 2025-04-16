@@ -3,11 +3,11 @@
 public class Main {
     public static void main(String[] args) {
 
-    double ticket = 13_676;
-    int rub = 20;
+        double ticket = 13_676;
+        int rub = 20;
 
-    int mile = (int) (ticket / rub);
+        int mile = (int) (ticket / rub);
 
         System.out.println(mile);
-}
+    }
 }
